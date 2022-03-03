@@ -17,6 +17,5 @@ public class Congrats {
         if (num >1 || num<100) {
             System.out.println("Congrats");
         }
-
     }
 }

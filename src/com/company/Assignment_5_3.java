@@ -13,6 +13,7 @@ public class Assignment_5_3 {
         System.out.println("Operation to be performed");
         char operation= sc.next().charAt(0);
 
+
         switch (operation){
             case '+':
                 System.out.println("Addition of a & b is" + " "+ (a+b));

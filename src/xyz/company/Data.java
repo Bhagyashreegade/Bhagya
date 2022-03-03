@@ -1,8 +1,14 @@
 package xyz.company;
 
-public class Employee {
+import com.company. Employee;
 
-    int phonenumber;
+public class Data {
+
+    public static void main(String[] args) {
+
+        Employee e1= new Employee ();
+
+    }
 
 
 }

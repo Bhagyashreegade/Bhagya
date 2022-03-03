@@ -1,6 +1,6 @@
 package com.company;
 
-public class March_1 {
+public class Main_m {
 
     public static void main(String[] args) {
 
@@ -8,7 +8,7 @@ public class March_1 {
         e1.id= 12345;
         e1.name= "Bhagya";
         e1.address= "Sanmanpark";
-        e1.phonenumber= 12344
+
 
 
 
