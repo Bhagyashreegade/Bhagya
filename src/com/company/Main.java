@@ -7,6 +7,9 @@ public class Main {
 
         System.out.println("Changes made by Bhagya");
 
+
+        System.out.println("CHANGES MADE BY AMONJOT");
+
         //find the sum of 1-10
 
         int sum = 0;
