@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("CHANGES MADE BY AMONJOT");
         //find the sum of 1-10
 
         int sum = 0;
