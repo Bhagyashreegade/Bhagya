@@ -1,6 +1,6 @@
 package xyz.company;
 
-import com.company. Employee;
+//import com.company. Employee;
 
 public class Data {
 
@@ -8,7 +8,8 @@ public class Data {
 
         Employee e1= new Employee ();
 
-    }
 
+
+    }
 
 }

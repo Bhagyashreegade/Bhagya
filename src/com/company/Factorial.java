@@ -1,6 +1,6 @@
 package com.company;
 
-public class Demo_assignment {
+public class Factorial {
     public static void main(String[] args) {
         //find the Factorial of 6
 

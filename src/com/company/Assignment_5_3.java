@@ -1,13 +1,13 @@
 package com.company;
 
-import java.util.Scanner;
+import java.util.*; //util.Scanner can also be written
 
 public class Assignment_5_3 {
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the vale of a");
-        int a = sc.nextInt();
+        int a = sc.nextInt(); // to take the input the value of a
         System.out.println("Enter the value of b");
         int b= sc.nextInt();
         System.out.println("Operation to be performed");
