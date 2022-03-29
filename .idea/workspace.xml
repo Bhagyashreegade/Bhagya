@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="580961fe-9911-4b18-9f58-8fc9ca54c9ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/com/company/Patterns.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Array_practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Chapter_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Chapter_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Chapter_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Exercise_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Strings_Assignment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Assignemnt_OOPS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Mar_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/March_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Array_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_16_Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Chapter_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Exercise_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/OOPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/company/Strings_Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/firstproject/com/company/Also.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/firstproject/com/company/Assignment_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/firstproject/com/company/Assignment_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/firstproject/com/company/Demo_assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/firstproject/com/company/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/firstproject/com/company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/firstproject/com/company/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/firstproject/xyz/company/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Also.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Assignment_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Assignment_5_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Assignment_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Assignment_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Demo_assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/company/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/company/Data.java" afterDir="false" />
-    </list>
+    <list default="true" id="580961fe-9911-4b18-9f58-8fc9ca54c9ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
