@@ -35,7 +35,7 @@ public class Chapter_17 {
 
         Student s2= new Student(s1);
         s2.printInfo();
-        System.out.println("New changes");
+        System.out.println("New Chair");
     }
 }
 
