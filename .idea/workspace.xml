@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="580961fe-9911-4b18-9f58-8fc9ca54c9ec" name="Changes" comment="" />
+    <list default="true" id="580961fe-9911-4b18-9f58-8fc9ca54c9ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Udemy/SelIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/CrashCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,33 +120,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Chapter_17">
-    <configuration name="AccessModifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.company.AccessModifiers" />
-      <module name="firstproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xyz.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Assignemnt_OOPS1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Assignemnt_OOPS1" />
-      <module name="firstproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CrashCourse">
     <configuration name="Calling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Calling" />
       <module name="firstproject" />
@@ -169,6 +147,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CrashCourse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.CrashCourse" />
+      <module name="firstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="March_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.March_01" />
       <module name="firstproject" />
@@ -182,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelIntroduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Udemy.SelIntroduction" />
+      <module name="firstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrashCourse" />
+        <item itemvalue="Application.SelIntroduction" />
         <item itemvalue="Application.Chapter_17" />
         <item itemvalue="Application.Calling" />
         <item itemvalue="Application.March_01" />
-        <item itemvalue="Application.AccessModifiers" />
-        <item itemvalue="Application.Assignemnt_OOPS1" />
       </list>
     </recent_temporary>
   </component>
