@@ -10,7 +10,7 @@ public class CrashCourse {
             System.out.print(s.charAt(i));
 
             System.out.println("hi new");
-            
+
         }
     }
 }
