@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/firstbitbucket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firstbitbucket.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/https/Bhagyashreegade@bitbucket.org/bhagyashreegade/firstbitbucket.git" vcs="Git" />
   </component>
 </project>
